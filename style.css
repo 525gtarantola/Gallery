@@ -11,3 +11,20 @@
 .btn:hover { 
     transform: scale(1.1); 
     }
+
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: #f9d4f1;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.navbar {
+    font-size: 25px;
+}
+
+.eeeee {
+    background-color: #fbe5f8;
+}
