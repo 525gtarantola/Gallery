@@ -2,3 +2,12 @@
     background-image: url('https://picsum.photos/1300/500');
     background-position: center center;
 }
+
+
+.btn { 
+    transition: all .2s ease-in-out; 
+    }
+    
+.btn:hover { 
+    transform: scale(1.1); 
+    }
