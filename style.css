@@ -6,6 +6,8 @@
 
 .btn { 
     transition: all .2s ease-in-out; 
+    background-color: #AC8BA2;
+    color: white;
     }
     
 .btn:hover { 
@@ -14,7 +16,7 @@
 
 body {
     font-family: 'Playfair Display', serif;
-    background-color: #f9d4f1;
+    background-color: #EAE2E8;
 }
 
 .navbar-brand {
@@ -23,8 +25,4 @@ body {
 
 .navbar {
     font-size: 25px;
-}
-
-.eeeee {
-    background-color: #fbe5f8;
 }
